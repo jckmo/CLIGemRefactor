@@ -1,0 +1,7 @@
+[submodule "term-front"]
+	path = term-front
+	url = git@github.com:jackismoe/term-front.git
+
+[submodule "term-back"]
+	path = term-back
+	url = git@github.com:jackismoe/term-back.git
